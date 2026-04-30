@@ -1,0 +1,22 @@
+using UnityEngine;
+
+//탈당(대입) 연산자 (=); : 변수에 값을 저장한다
+public class assiifotpmea : MonoBehaviour
+{
+    // Start is called once before the first execution of Update after the MonoBehaviour is created
+    void Start()
+    {
+           string name = "홍길동"; 
+           int  age = 19;
+
+           Debug.Log($" 이름은 {name}이고 나이는 {age}살입니다."); 
+
+
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        
+    }
+}
