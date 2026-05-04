@@ -2,7 +2,7 @@
 using UnityEngine; //현재 cs 파일에서 UnityEngine 네임스페이스를 사용하겠다고 선언
 
 //[2] 클래스 선언부
-public class Helloworid : MonoBehaviour
+public class Helloworid : MonoBehaviour   
 {
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     //[3] Start 메서드 선언. 정의 : 프로그램을  1번만 실행    

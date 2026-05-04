@@ -119,7 +119,7 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
---- !u!1 &1957535898
+--- !u!1 &115159754
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -127,37 +127,37 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 1957535900}
-  - component: {fileID: 1957535899}
+  - component: {fileID: 115159756}
+  - component: {fileID: 115159755}
   m_Layer: 0
-  m_Name: Whillefdafffaf
+  m_Name: Forsim
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &1957535899
+--- !u!114 &115159755
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1957535898}
+  m_GameObject: {fileID: 115159754}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fe707799915bd614daaa5207f5a6604a, type: 3}
+  m_Script: {fileID: 11500000, guid: ebc14a48ed31e0645a58151f77f4d02f, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::Whillefdafffaf
---- !u!4 &1957535900
+  m_EditorClassIdentifier: Assembly-CSharp::Forsim
+--- !u!4 &115159756
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1957535898}
+  m_GameObject: {fileID: 115159754}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -2.34994, y: 0, z: -9.74939}
+  m_LocalPosition: {x: -4.0174003, y: -0.000000029021905, z: -8.411118}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -388,4 +388,4 @@ SceneRoots:
   m_Roots:
   - {fileID: 2086577863}
   - {fileID: 2125333555}
-  - {fileID: 1957535900}
+  - {fileID: 115159756}

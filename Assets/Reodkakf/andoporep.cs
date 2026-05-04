@@ -20,7 +20,7 @@ public class andoporep : MonoBehaviour
 
         //[3] 둘 다 거짓인 경우
         Debug.Log(false && false); //false
-
+        
 
 
 
